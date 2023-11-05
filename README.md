@@ -1,1 +1,2 @@
-# GuessGame
+## GuessGame
+### Simple python practice mini project
